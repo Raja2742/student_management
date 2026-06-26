@@ -1,0 +1,19 @@
+.form_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    padding-bottom: 150px;
+}
+
+input{
+    width: 100%;
+    max-width: 600px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(191, 219, 220);
+    color: rgb(17, 37, 55);
+    font-weight: bold;
+}
